@@ -3,7 +3,7 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
-ublic class Person {
+public class Person {
     private String name;
     private int age;
 
@@ -25,11 +25,8 @@ ublic class Person {
         person.displayInfo();
     }
 }
-3. Basic Java Inheritance
-An example showing inheritance in Java.
+ 
 
-java
-Copy code
 class Animal {
     void eat() {
         System.out.println("This animal eats food.");
