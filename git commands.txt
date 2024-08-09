@@ -1,0 +1,11 @@
+commands in git 
+git clone
+git init 
+git status 
+git merge
+git commit
+git pull
+git push
+git add
+git diff
+git config
