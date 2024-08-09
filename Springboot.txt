@@ -1,0 +1,5 @@
+In crome browse spring initlizer.io
+then choose the version, dependencies , type of project(maven/geadle), file type and also add the project name , group id and artifact id
+then after adding the dependencies, thgen generate it.
+after generating it it would be downloaded as zip folder and the extract the zip folder 
+open in a IDE(visual studio, intellji, etc)
